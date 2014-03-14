@@ -14,21 +14,17 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
-Example Apache Stanbol Component
+Fusepool DLC Pubmed Rdfizer
 ===========
 
-This is an example Apache Stanbol component.
+Provides a service component to transform an XML document (PubMed) into RDF triples
 
-To compile the engine run
+To compile the component run
 
     mvn install
 
-To deploy the engine to a stanbol instance running on localhost port 8080 run
+To deploy the component to a Fusepool instance running on localhost port 8080 run
 
     mvn org.apache.sling:maven-sling-plugin:install
 
 
-After installing a new menu item pointing you to /fusepool-dlc-pubmed will appear.
-
-The example service allows to upload a file for which enhancement will be generated.
-The service can be accessed via browser as HTML or as RDF for machine clients.
