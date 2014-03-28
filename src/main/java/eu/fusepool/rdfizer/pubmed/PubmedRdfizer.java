@@ -17,9 +17,7 @@ package eu.fusepool.rdfizer.pubmed;
 
 import java.io.IOException;
 import java.io.InputStream;
-
 import javax.xml.transform.TransformerException;
-
 import org.apache.clerezza.rdf.core.MGraph;
 import org.apache.clerezza.rdf.core.impl.SimpleMGraph;
 import org.apache.clerezza.rdf.core.serializedform.Parser;
