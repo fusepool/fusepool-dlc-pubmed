@@ -14,7 +14,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
-Fusepool DLC Pubmed Rdfizer
+Fusepool DLC - Pubmed Rdfizer
 ===========
 
 Provides a service component to transform an XML document (PubMed) into RDF triples
