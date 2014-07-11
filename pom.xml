@@ -102,8 +102,8 @@
         </dependency>
         <dependency>
             <groupId>org.apache.clerezza</groupId>
-            <artifactId>org.apache.clerezza.rdf.jena.parser</artifactId>
-            <version>0.10-incubating-SNAPSHOT</version>
+            <artifactId>rdf.jena.parser</artifactId>
+            <version>0.12</version>
             <scope>test</scope>
         </dependency>
         <dependency>
